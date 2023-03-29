@@ -18,5 +18,9 @@ div.controls {
 
 button {
   width: 25%;
-  height: 25%;
+  height: 20%;
+}
+
+button.big {
+  width: 50%;
 }
